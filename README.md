@@ -1,4 +1,4 @@
-# Biopython-PS1-ACMGzxc
+# Biopython-PS1-ACMG
 
 # Description
 
