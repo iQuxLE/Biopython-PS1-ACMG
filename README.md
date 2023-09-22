@@ -7,7 +7,7 @@ Python functions that determine whether different nucleotide mutations within th
 ## 1. Function with Mutations at Different Positions
 The first function identifies pairs of mutations within different nucleotide positions of the same codon that both lead to the same amino acid change.
 
-## 2. Function with Mutations including the Same Position
+## 2. Function with Mutations Including the Same Position
 The second function expands upon the first by also considering mutations at the same nucleotide position, essentially identifying all pairs of mutations that result in the same amino acid change, irrespective of their position within the codon.
 
 
