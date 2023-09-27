@@ -1,6 +1,6 @@
 # Biopython-PS1-ACMG
 
-# Description
+# Description1
 
 Python functions that determine whether different nucleotide mutations within the same codon can lead to the same resultant amino acid using the standard genetic code. The functions are based on the Bio.Data.CodonTable module from the Biopython library.
 
